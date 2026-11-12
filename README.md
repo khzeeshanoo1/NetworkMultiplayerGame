@@ -1,2 +1,2 @@
 # NetworkMultiplayerGame
-Network multiplayer game built in Unreal Engine (university project)
+Network multiplayer game built in Unreal Engine
